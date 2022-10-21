@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Manjit
+- 👀 I’m interested in Programing
+- 🌱 I’m currently learning Web development
+- 💞️ I’m looking to collaborate on @Manjit-35
+- 📫 You can reach me on darkhack775@gmail.com 
